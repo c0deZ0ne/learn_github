@@ -1,5 +1,10 @@
-console.log('hello world')
 
+:qa
+
+
+
+
+!
 
 
 console.log('hello worl)
